@@ -20,6 +20,7 @@
 
 #include <mt-plat/aee.h>
 
+
 struct module_sect_attr {
 	struct module_attribute mattr;
 	char *name;
